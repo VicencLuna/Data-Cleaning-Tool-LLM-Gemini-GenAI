@@ -41,4 +41,5 @@ In the Script Editor, from the Run menu, select the function you want to use:
 correctData_Gemini_JSON: To correct grammar and generate text.
 display_JSON_Sheet_Input: To parse and display JSON data.
 
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/6e54a9ee-e6b9-4ca2-b197-c850e5de1e3b">
+![GitHub-GeminiLLMGenAI-DataCleaningTools-FullsdeclculdeGoogle-GoogleChrome2024-11-3017-47-58-ezgif com-speed](https://github.com/user-attachments/assets/3355d152-3f30-46b4-af59-0bb5e669273f)
+
